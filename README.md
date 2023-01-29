@@ -1,10 +1,12 @@
 # Embedding Machine 📠
 
-Easily get the embedding vectors for text in a csv file
+Easily get the embedding vectors for text in a csv file 
+
+ [OpenAI Embedding API Docs](https://beta.openai.com/docs/api-reference/embeddings)
 
 ## How to Use
 
-1. Dev container
+1. Open the dev container
 2. Replace `data.csv` with the your data
 
     **NOTE** column named *content* will be used to create embedding vector
